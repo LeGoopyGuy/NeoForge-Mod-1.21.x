@@ -1,3 +1,7 @@
 {
-  "item.goopyguysmod.bismuth": "Bismuth"
+  "item.goopyguysmod.bismuth": "Bismuth",
+  "item.goopyguysmod.raw_bismuth": "Raw Bismuth",
+
+  "block.goopyguysmod.bismuth_block": "Block of Bismuth",
+  "block.goopyguysmod.bismuth_ore": "Bismuth Ore"
 }
