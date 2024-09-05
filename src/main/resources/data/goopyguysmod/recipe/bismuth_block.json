@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "Misc",
+  "key": {
+    "B": {
+      "item": "goopysguysmod:bismuth"
+    }
+  },
+  "pattern": [
+    "BBB",
+    "BBB",
+    "BBB"
+  ],
+  "result": {
+    "count": 1,
+    "id": "goopyguysmod:bismuth_block"
+  }
+  }

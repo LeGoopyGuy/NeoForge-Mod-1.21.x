@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "Misc",
+  "ingredient": [
+  {
+    "item": "goopyguysmod:bismuth_block"
+  }
+],
+  "result": {
+    "count": 9,
+    "id": "goopyguysmod:bismuth"
+  }
+}
