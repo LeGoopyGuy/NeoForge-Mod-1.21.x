@@ -1,6 +1,7 @@
 package net.LeGoopyGuy.tutorialmod;
 
 import net.LeGoopyGuy.tutorialmod.block.ModBlocks;
+import net.LeGoopyGuy.tutorialmod.item.ModCreativeModeTabs;
 import net.LeGoopyGuy.tutorialmod.item.ModItems;
 import net.minecraft.world.item.CreativeModeTabs;
 import org.slf4j.Logger;
@@ -37,6 +38,8 @@ public class TutorialMod {
         // Do not add this line if there are no @SubscribeEvent-annotated functions in this class, like onServerStarting() below.
         NeoForge.EVENT_BUS.register(this);
 
+        ModCreativeModeTabs.register(modEventBus);
+
         ModItems.register(modEventBus);
         ModBlocks.register(modEventBus);
 
@@ -53,13 +56,13 @@ public class TutorialMod {
     // Add the example block item to the building blocks tab
     private void addCreative(BuildCreativeModeTabContentsEvent event) {
         if(event.getTabKey() == CreativeModeTabs.INGREDIENTS) {
-            event.accept(ModItems.BISMUTH);
-            event.accept(ModItems.RAW_BISMUTH);
+            //event.accept(ModItems.BISMUTH);
+            //event.accept(ModItems.RAW_BISMUTH);
         }
 
         if(event.getTabKey() == CreativeModeTabs.BUILDING_BLOCKS) {
-            event.accept(ModBlocks.BISMUTH_BLOCK);
-            event.accept(ModBlocks.BISMUTH_ORE);
+            //event.accept(ModBlocks.BISMUTH_BLOCK);
+            //event.accept(ModBlocks.BISMUTH_ORE);
         }
     }
 
