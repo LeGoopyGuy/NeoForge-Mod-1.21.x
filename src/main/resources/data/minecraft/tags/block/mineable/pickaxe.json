@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "goopyguysmod:bismuth_block",
+    "goopyguysmod:bismuth_ore",
+    "goopyguysmod:bismuth_deepslate_ore"
+  ]
+}
