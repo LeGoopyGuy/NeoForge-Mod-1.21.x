@@ -2,17 +2,19 @@
   "type": "minecraft:crafting_shaped",
   "category": "Misc",
   "key": {
+    "S": {
+      "tag": "c:rods/wooden"
+    },
     "B": {
       "item": "goopyguysmod:bismuth"
     }
   },
   "pattern": [
-    "BBB",
-    "BBB",
-    "BBB"
+    "B",
+    "S"
   ],
   "result": {
     "count": 1,
-    "id": "goopyguysmod:bismuth_block"
+    "id": "goopyguysmod:chisel"
   }
   }

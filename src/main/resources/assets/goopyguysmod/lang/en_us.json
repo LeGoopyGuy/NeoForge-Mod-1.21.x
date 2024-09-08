@@ -2,9 +2,13 @@
   "item.goopyguysmod.bismuth": "Bismuth",
   "item.goopyguysmod.raw_bismuth": "Raw Bismuth",
 
+  "item.goopyguysmod.chisel": "Chisel",
+
   "block.goopyguysmod.bismuth_block": "Block of Bismuth",
   "block.goopyguysmod.bismuth_ore": "Bismuth Ore",
   "block.goopyguysmod.bismuth_deepslate_ore": "Bismuth Deepslate Ore",
+
+  "block.goopyguysmod.magic_block": "Magic Block",
 
   "creativetab.goopyguysmod.bismuth_items": "Bismuth Items",
   "creativetab.goopyguysmod.bismuth_blocks": "Bismuth Blocks"
