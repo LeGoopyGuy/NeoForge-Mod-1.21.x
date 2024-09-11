@@ -11,5 +11,10 @@
   "block.goopyguysmod.magic_block": "Magic Block",
 
   "creativetab.goopyguysmod.bismuth_items": "Bismuth Items",
-  "creativetab.goopyguysmod.bismuth_blocks": "Bismuth Blocks"
+  "creativetab.goopyguysmod.bismuth_blocks": "Bismuth Blocks",
+
+  "item.goopyguysmod.radish": "Radish",
+
+  "item.goopyguysmod.frostfire_ice": "Frostfire Ice",
+  "item.goopyguysmod.starlight_ashes": "Starlight Ashes"
 }

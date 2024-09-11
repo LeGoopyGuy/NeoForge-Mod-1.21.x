@@ -21,10 +21,16 @@ public class ModCreativeModeTabs {
             () -> CreativeModeTab.builder().icon(() -> new ItemStack(ModItems.BISMUTH.get()))
                     .title(Component.translatable("creativetab.goopyguysmod.bismuth_items"))
                     .displayItems((itemDisplayParameters, output) -> {
+                        //ores
                         output.accept(ModItems.BISMUTH);
                         output.accept(ModItems.RAW_BISMUTH);
-
+                        //tools
                         output.accept(ModItems.CHISEL);
+                        //food
+                        output.accept(ModItems.RADISH);
+                        //fuels
+                        output.accept(ModItems.FROSTFIRE_ICE);
+                        output.accept(ModItems.STARLIGHT_ASHES);
                     })
 
 
