@@ -1,4 +1,5 @@
 {
+
   "item.goopyguysmod.bismuth": "Bismuth",
   "item.goopyguysmod.raw_bismuth": "Raw Bismuth",
 
@@ -16,5 +17,10 @@
   "item.goopyguysmod.radish": "Radish",
 
   "item.goopyguysmod.frostfire_ice": "Frostfire Ice",
-  "item.goopyguysmod.starlight_ashes": "Starlight Ashes"
+  "item.goopyguysmod.starlight_ashes": "Starlight Ashes",
+
+  "tooltip.goopyguysmod.magic_block.tooltip":"This block is very §9MAGICAL§r",
+  "tolltip.goopyguysmod.chisel.shift_down": "This Item can chisel Blocks into Bricks",
+  "tolltip.goopyguysmod.chisel":"Press §eShift§r more more info",
+  "tolltip.goopyguysmod.radish.tooltip": "It's really good for your §4Health§r"
 }
