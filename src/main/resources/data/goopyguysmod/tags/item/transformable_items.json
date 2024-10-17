@@ -1,7 +1,7 @@
 {
   "values": [
-    "goopyguysmod.bismuth",
-    "goopyguysmod.raw_bismuth",
+    "goopyguysmod:bismuth",
+    "goopyguysmod:raw_bismuth",
     "minecraft:coal",
     "minecraft:stick",
     "minecraft:compass"
